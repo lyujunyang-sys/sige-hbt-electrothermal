@@ -1,0 +1,4 @@
+__pycache__/
+tools/
+*_err.txt
+*_log.txt

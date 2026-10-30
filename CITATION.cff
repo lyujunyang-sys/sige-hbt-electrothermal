@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "SiGe HBT: electro-thermal coupling and Bayesian calibration"
+abstract: "Reference code for the paper 'Bayesian optimization study of SiGe HBT based on HICUM model and unsteady heat conduction' (manuscript in revision)."
+authors:
+  - family-names: Lyu
+    given-names: Junyang
+license: MIT
+date-released: 2026-10-30
